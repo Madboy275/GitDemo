@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+this is new branch
+=======
+sample txt
+>>>>>>> GitNewBranch
