@@ -1,3 +1,1 @@
-# Ignore log files and log folders
-*.log
-/log/
+backup*
